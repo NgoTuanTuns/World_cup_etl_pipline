@@ -135,8 +135,8 @@ POSTGRES_PORT=
 
 | Table | Source File |
 |-------|-------------|
-| `wc_2026_fixture` | wc_2026_fixture.csv |
-| `wc_2026_teams` | wc_2026_teams.csv |
+| `wc2026_fixtures` | wc_2026_fixture.csv |
+| `wc2026_teams` | wc_2026_teams.csv |
 | `wc_all_editions` | wc_all_editions.csv |
 | `wc_all_matches` | wc_all_matches.csv |
 | `wc_top_scorers` | wc_top_scorers.csv |
