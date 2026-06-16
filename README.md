@@ -42,8 +42,8 @@ The pipeline processes the following CSV files:
 │   ├── wc_all_editions.csv
 │   ├── wc_all_matches.csv
 │   └── wc_top_scorers.csv
-├── include/
-│   └── scripts/                     # Extract/transform/load helper scripts
+├── plugins/
+│   └── postgres_operator.py                     # Extract/transform/load helper scripts
 ├── Dockerfile
 ├── docker-compose.ymal
 ├── requirements.txt
