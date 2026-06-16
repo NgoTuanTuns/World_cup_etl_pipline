@@ -8,13 +8,7 @@ This project extracts World Cup data from CSV files, transforms it using Pandas,
 
 ## Architecture
 
-```
-CSV Files → Extract (Pandas) → Transform (Pandas) → Load (PostgreSQL)
-                                        ↑
-                              Orchestrated by Airflow
-                                        ↑
-                              Running on Docker
-```
+![Pipeline Architecture](Diagram.png)
 
 ## Data Sources
 
